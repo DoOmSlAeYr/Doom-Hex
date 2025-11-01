@@ -5,6 +5,7 @@ Welcome to **DoomHex**, your ultimate Python-based tool for encoding and decodin
 Whether you're a tech enthusiast, programmer, or just curious about data representation, DoomHex brings a **fun, interactive, and colorful experience** to the terminal.  
 
 ---
+![DoomHex Banner](https://raw.githubusercontent.com/DoOmSlAyEr/DoomHex/main/DoomHex.jpg)
 
 ## 🚀 Features
 
