@@ -5,8 +5,9 @@ Welcome to **DoomHex**, your ultimate Python-based tool for encoding and decodin
 Whether you're a tech enthusiast, programmer, or just curious about data representation, DoomHex brings a **fun, interactive, and colorful experience** to the terminal.  
 
 ---
-![DoomHex Banner](https://raw.githubusercontent.com/DoOmSlAyEr/DoomHex/main/DoomHex.jpg)
+<h1>ScreenShot</h1>
 
+<img src="DoomHex.jpg" alt="DoomHex Banner" width="600" height="300">
 ## 🚀 Features
 
 - **Text ↔ Binary**: Convert any text into binary and vice versa, perfect for learning or experimentation.  
